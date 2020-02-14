@@ -6,9 +6,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Installation',   path: 'menu', url: 'installation.html'}
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
-- {name: 'Projects',   path: 'menu', url: 'projects.html'}
+- {name: 'R Installation',   path: 'menu', url: 'installation.html'}
+- {name: 'Classroom Experiments',   path: 'menu', url: 'projects.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
