@@ -9,12 +9,7 @@ Soon we will publish the course Syllabus here.
 | ------------- |:-------------:| -----:|
 | 1 | Feb | Intro |
 | 2 | March |   Who knows? |
-| 3 | March |   Torches are made to light, jewels to wear,
-Dainties to taste, fresh beauty for the use,
-Herbs for their smell, and sappy plants to bear;
-Things growing to themselves are growth’s abuse,
-  Seeds spring from seeds, and beauty breedeth beauty;
-  Thou wast begot; to get it is thy duty. |
+| 3 | March |   Torches are made to light|
 | 4 | March |    wtf |
 | 5 | March |    wtf |
 | 6 | March |    wtf |
