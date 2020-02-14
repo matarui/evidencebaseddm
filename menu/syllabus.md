@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Syllabus
+title: Sessions
 ---
-
-Soon we will publish the course Syllabus here.
 
 | Session        | Date           | Content  |
 | ----- |:-------------:| -----:|
