@@ -4,7 +4,7 @@ title: Syllabus
 ---
 
 ## Instructor
-Rui Mata (rui.mata@unibas.ch)
+Rui Mata [rui.mata@unibas.ch](rui.mata@unibas.ch)
 
 ## Venue
 Missionsstrasse 62a, Hörsaal 00.006
