@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Sessions
+title: Syllabus
 ---
 
+## Instructor
+Rui Mata (rui.mata@unibas.ch)
+
+# Agenda
 | Session        | Date           | Content  |
 | ----- |:-------------:| -----:|
 | 1 | Feb 18 | Rationale for evidence-based practices |
