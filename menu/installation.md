@@ -13,10 +13,12 @@ Use the following links to install the newest versions of Base-R und RStudio.
 
 ### Install Base-R
 Windows: https://cran.r-project.org/bin/windows/base/R-3.6.2-win.exe
+
 Mac: https://cran.r-project.org/bin/macosx/R-3.6.2.pkg
 
 ### Install RStudio
 Windows: https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe
+
 Mac: https://download1.rstudio.org/desktop/macos/RStudio-1.2.5033.dmg
 
 ## 2 - Complete Swirl tutorial
