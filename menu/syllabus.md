@@ -6,7 +6,7 @@ title: Syllabus
 ## Instructor
 Rui Mata (rui.mata@unibas.ch)
 
-# Agenda
+## Agenda
 
 | Session        | Date           | Content  |
 | ----- |:-------------:| -----:|
