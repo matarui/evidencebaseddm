@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R Installation
+title: R Installation and Swirl
 ---
 
 There will be a few classroom exercises offered to you that you will be able to complete using R. If you are not familiar with R please follow the instructions to install the necessary software and complete the preparatory assignment in R Swirl.
