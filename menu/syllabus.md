@@ -22,3 +22,11 @@ Rui Mata (rui.mata@unibas.ch)
 | 10 | May 12 |    Systematic reviews and meta-analyses |
 | 11 | May 19 |    Evidence-based Interventions |
 | 12 | May 26 |    Exam (multiple-choice) |
+
+## Grading and Exam
+
+Students will be graded by their performance on a multiple-choice exam (May 26). 
+
+The exam will consist of circa 25 K-prim multiple-choice questions: Each question or incomplete statement is followed by four possible responses or statements. For each response or statement, a decision must be made as to whether it is right or wrong. Regardless of whether the question is grammatically formulated in the singular or the plural, one, two, three, four or even none of the answers may be correct. For each question, four correct answers equal 1 point, three correct equal .5 point, and less than 3 correct answers equal 0 points. 
+
+The exam will be in English and students are allowed to bring a dictionary to the exam. 
