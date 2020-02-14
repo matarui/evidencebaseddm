@@ -3,9 +3,6 @@ layout: page
 title: Syllabus
 ---
 
-## Instructor
-[Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/)
-
 ## Venue
 Missionsstrasse 62a, Hörsaal 00.006
 
