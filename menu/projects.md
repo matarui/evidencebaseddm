@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student projects
+title: Classroom Projects
 ---
 
-Soon we will publish a list of student projects here. 
+Information will be made available throughout the semester.
