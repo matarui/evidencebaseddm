@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
 - {name: 'R Installation',   path: 'menu', url: 'installation.html'}
-- {name: 'Classroom Experiments',   path: 'menu', url: 'projects.html'}
+- {name: 'Classroom Exercises',   path: 'menu', url: 'projects.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
