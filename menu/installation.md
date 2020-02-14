@@ -1,13 +1,13 @@
 ---
 layout: page
-title: R Installation: Instructions
+title: R Installation
 ---
 
-There will be a few classroom exercises offered to you that you can complete using R. If you are not familiar with R please follow the instructions to install the necessary software and complete the preparatory assignment in R Swirl.
+There will be a few classroom exercises offered to you that you will be able to complete using R. If you are not familiar with R please follow the instructions to install the necessary software and complete the preparatory assignment in R Swirl.
 
 Please let me know if you run into any problems.
 
-## 1 - Install Base-R and RStudio on your laptops
+## 1 - Install Base-R and RStudio
 
 Use the following links to install the newest versions of Base-R und RStudio.
 
@@ -21,7 +21,7 @@ Mac: https://download1.rstudio.org/desktop/macos/RStudio-1.2.5033.dmg
 
 ## 2 - Complete Swirl tutorial
 
-Swirl is an interactive learning environment for R. Please run the following code to install Swirl in your R.
+Swirl is an interactive learning environment for R. Please run the following code to install Swirl in RStudio.
 
 <font style="font-family: 'Lucida Console', Monaco, monospace;">
 install.packages("swirl")
@@ -29,7 +29,7 @@ library(swirl)
 install_course_github("swirldev", "R_Programming_E")
 </font>
 
-Finally, run the following line to start the interactive learning programm. It will first ask you your name. Afterwards select 1 in order to start the R Programming E course.
+Finally, run the following line to start the interactive learning programm. It will first ask you your name. Afterwards select 1 in order to start the R Programming course.
 
 <font style="font-family: 'Lucida Console', Monaco, monospace;">
 swirl()
