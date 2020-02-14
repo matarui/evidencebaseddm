@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Classroom Projects
+title: Classroom Exercises
 ---
 
 Information will be made available throughout the semester.
