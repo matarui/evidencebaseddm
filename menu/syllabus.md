@@ -27,7 +27,7 @@ Missionsstrasse 62a, Hörsaal 00.006
 
 \* these sessions will involve homework assignements only
 
-## Grading and Exam
+## Grading
 Students grades will be a combination of a) three homework assignments (30% of the final grade) and b) performance on a multiple-choice exam (70% of the final grade).
 
 ### Homework assignments
