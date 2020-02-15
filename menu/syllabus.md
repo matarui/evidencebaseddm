@@ -16,16 +16,16 @@ Missionsstrasse 62a, Hörsaal 00.006
 | 4 | March 17 | Clinical vs. actuarial methods |
 | 5 | March 24|  Deliberative and statistical aggregation in groups |
 | 6 | March 31|  Deliberative and statistical aggregation in groups |
-| 7 | April 7* | Experimental design and causal inference (from home) |
+| 7 | April 7* | Experimental design and causal inference |
 | 8 | April 14 | Experimental design and causal inference |
 | 9 | April 21 | Experimental design and causal inference |
 | 10 | April 28 | Systematic reviews and meta-analyses |
-| 11 | May 5* | Systematic reviews and meta-analyses (from home)|
+| 11 | May 5* | Systematic reviews and meta-analyses |
 | 12 | May 12 | Systematic reviews and meta-analyses |
 | 13 | May 19 | Evidence-based interventions |
 | 14 | May 26 | Exam (multiple-choice) |
 
-\* from home
+\* these sessions will involve homework assignements only
 
 ## Grading and Exam
 
