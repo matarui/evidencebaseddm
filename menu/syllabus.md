@@ -19,9 +19,10 @@ Missionsstrasse 62a, Hörsaal 00.006
 | 7 | April 14 |    Experimental design and causal inference |
 | 8 | April 21 |    Experimental design and causal inference |
 | 9 | April 28 |    Systematic reviews and meta-analyses |
-| 10 | May 12 |    Systematic reviews and meta-analyses |
-| 11 | May 19 |    Evidence-based Interventions |
-| 12 | May 26 |    Exam (multiple-choice) |
+| 10 | May 5 |    Systematic reviews and meta-analyses (homework assignment)|
+| 11 | May 12 |    Systematic reviews and meta-analyses |
+| 12 | May 19 |    Evidence-based Interventions |
+| 13 | May 26 |    Exam (multiple-choice) |
 
 ## Grading and Exam
 
