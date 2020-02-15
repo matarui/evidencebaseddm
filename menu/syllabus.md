@@ -28,9 +28,12 @@ Missionsstrasse 62a, Hörsaal 00.006
 \* these sessions will involve homework assignements only
 
 ## Grading and Exam
+Students grades will be a combination of a) three homework assignments (30% of the final grade) and b) performance on a multiple-choice exam (70% of the final grade).
 
-Students will be graded by their performance on a multiple-choice exam (May 26). 
+### Homework assignments
+Three homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to an online quiz, or conducting a short literature search. Two of these assignments will substitute classrom sessions (April 7, May 5). 
 
+### Exam
 The exam will consist of circa 25 K-prim multiple-choice questions: Each question or incomplete statement is followed by four possible responses or statements. For each response or statement, a decision must be made as to whether it is right or wrong. Regardless of whether the question is grammatically formulated in the singular or the plural, one, two, three, four or even none of the answers may be correct. For each question, four correct answers equal 1 point, three correct equal .5 point, and less than 3 correct answers equal 0 points. 
 
 The exam will be in English. Students are allowed to bring a dictionary to the exam. 
