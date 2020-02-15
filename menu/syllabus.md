@@ -9,7 +9,7 @@ Missionsstrasse 62a, Hörsaal 00.006
 ## Agenda
 
 | Session        | Date           | Content  |
-| ----- |:-------------:| :-----|
+| ----- |:------------| :-----|
 | 1 | Feb 18 | Rationale for evidence-based practices |
 | 2 | Feb 25 | Clinical vs. actuarial methods |
 | 3 | March 10 | Clinical vs. actuarial methods |
