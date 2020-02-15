@@ -25,7 +25,7 @@ Missionsstrasse 62a, Hörsaal 00.006
 | 13 | May 19 | Evidence-based interventions |
 | 14 | May 26 | Exam (multiple-choice) |
 
-* from home
+\* from home
 
 ## Grading and Exam
 
