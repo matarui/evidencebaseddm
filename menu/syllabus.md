@@ -8,22 +8,22 @@ Missionsstrasse 62a, Hörsaal 00.006
 
 ## Agenda
 
-| Session        | Date           | Content  |
-| ----- |:------------| :-----|
-| 1 | Feb 18 | Rationale for evidence-based practices |
-| 2 | Feb 25 | Clinical vs. actuarial methods |
-| 3 | March 10 | Clinical vs. actuarial methods |
-| 4 | March 17 | Clinical vs. actuarial methods |
-| 5 | March 24|  Deliberative and statistical aggregation in groups |
-| 6 | March 31|  Deliberative and statistical aggregation in groups |
-| 7 | April 7* | Experimental design and causal inference |
-| 8 | April 14 | Experimental design and causal inference |
-| 9 | April 21 | Experimental design and causal inference |
-| 10 | April 28 | Systematic reviews and meta-analyses |
-| 11 | May 5* | Systematic reviews and meta-analyses |
-| 12 | May 12 | Systematic reviews and meta-analyses |
-| 13 | May 19 | Evidence-based interventions |
-| 14 | May 26 | Exam (multiple-choice) |
+| Session        | Date           | Content  | Slides  | Reading
+| ----- |:------------| :-----| :-----| :-----|
+| 1 | Feb 18 | Rationale for evidence-based practices | | |
+| 2 | Feb 25 | Clinical vs. actuarial methods | | |
+| 3 | March 10 | Clinical vs. actuarial methods | | |
+| 4 | March 17 | Clinical vs. actuarial methods | | |
+| 5 | March 24|  Deliberative and statistical aggregation in groups | | |
+| 6 | March 31|  Deliberative and statistical aggregation in groups | | |
+| 7 | April 7* | Experimental design and causal inference | | |
+| 8 | April 14 | Experimental design and causal inference | | |
+| 9 | April 21 | Experimental design and causal inference | | |
+| 10 | April 28 | Systematic reviews and meta-analyses | | |
+| 11 | May 5* | Systematic reviews and meta-analyses | | |
+| 12 | May 12 | Systematic reviews and meta-analyses | | |
+| 13 | May 19 | Evidence-based interventions | | |
+| 14 | May 26 | Exam (multiple-choice) | | |
 
 \* these sessions will involve homework assignements only
 
