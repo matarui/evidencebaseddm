@@ -4,26 +4,20 @@ title: Syllabus
 ---
 
 ## Venue
-Missionsstrasse 62a, Hörsaal 00.006
+The first two sessions of this lecture took place in-person but we have switched to an online format that will involve recorded/interactive sessions and homework assignments. 
 
 ## Agenda
 
-| Session        | Date           | Content  | Slides  | Reading
-| ----- |:------------| :-----| :-----| :-----|
-| 1 | Feb 18 | Rationale for evidence-based practices | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session1.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Munafò_2017_Nature_Human_Behaviour.pdf"><b>pdf</b></a>|
-| 2 | Feb 25 | Clinical vs. actuarial methods | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session2.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Dawes_1989_Science.pdf"><b>pdf</b></a>|
-| 3 | March 10 | Clinical vs. actuarial methods | | |
-| 4 | March 17 | Clinical vs. actuarial methods | | |
-| 5 | March 24|  Deliberative and statistical aggregation in groups | | |
-| 6 | March 31|  Deliberative and statistical aggregation in groups | | |
-| 7 | April 7* | Experimental design and causal inference | | |
-| 8 | April 14 | Experimental design and causal inference | | |
-| 9 | April 21 | Experimental design and causal inference | | |
-| 10 | April 28 | Systematic reviews and meta-analyses | | |
-| 11 | May 5* | Systematic reviews and meta-analyses | | |
-| 12 | May 12 | Systematic reviews and meta-analyses | | |
-| 13 | May 19 | Evidence-based interventions | | |
-| 14 | May 26 | Exam (multiple-choice) | | |
+| Session        | Date           | Content  | Slides  | Reading | Exercise |
+| ----- |:------------| :-----| :-----| :-----| :-----|
+| 1 | Feb 18 | Rationale for evidence-based practices | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session1.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Munafò_2017_Nature_Human_Behaviour.pdf"><b>pdf</b></a>| | 
+| 2 | Feb 25 | Clinical vs. actuarial methods | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session2.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Dawes_1989_Science.pdf"><b>pdf</b></a>| |
+| 3 | tbd | Clinical vs. actuarial methods | | | http://matarui.github.io/evidencebaseddm/assets/exercise1.html|
+| 4 | tbd |  Deliberative and statistical aggregation in groups | | | |
+| 5 | tbd | Experimental design and causal inference | | | |
+| 6 | tbd | Systematic reviews and meta-analyses | | | |
+| 7 | tbd | Evidence-based interventions | | | |
+| 14 | May 26 | Exam (multiple-choice) | | | |
 
 \* these sessions will involve homework assignements only
 
