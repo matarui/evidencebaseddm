@@ -4,7 +4,7 @@ title: Syllabus
 ---
 
 ## Format
-The first two sessions of this lecture took place in-person but we have switched to an online format that will involve recorded/interactive sessions and homework assignments. The agenda below is tentative and is may be subject to changes.
+The first two sessions of this lecture took place in-person but we have switched to an online format that will involve recorded/interactive sessions and homework assignments. The agenda below is tentative and may be subject to changes.
 
 ## Course Materials
 Materials (slides, readings, exercises) are made available through links below and on <a href="https://adam.unibas.ch/goto_adam_crs_833529.html"><b>ADAM</b></a>. ADAM also has a FAQ section that you can use to post any questions related to the lecture. 
