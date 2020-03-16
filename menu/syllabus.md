@@ -12,12 +12,14 @@ The first two sessions of this lecture took place in-person but we have switched
 | ----- |:------------| :-----| :-----| :-----| :-----|
 | 1 | Feb 18 | Rationale for evidence-based practices | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session1.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Munafò_2017_Nature_Human_Behaviour.pdf"><b>pdf</b></a>| | 
 | 2 | Feb 25 | Clinical vs. actuarial methods | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session2.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Dawes_1989_Science.pdf"><b>pdf</b></a>| |
-| 3 | tbd | Clinical vs. actuarial methods | | | http://matarui.github.io/evidencebaseddm/assets/exercise1.html|
+| 3 | tbd | Clinical vs. actuarial methods | | |<a href="http://matarui.github.io/evidencebaseddm/assets/exercise1.html"><b>pdf</b></a> |
 | 4 | tbd |  Deliberative and statistical aggregation in groups | | | |
 | 5 | tbd | Experimental design and causal inference | | | |
 | 6 | tbd | Systematic reviews and meta-analyses | | | |
 | 7 | tbd | Evidence-based interventions | | | |
 | 14 | May 26 | Exam (multiple-choice) | | | |
+
+
 
 \* these sessions will involve homework assignements only
 
