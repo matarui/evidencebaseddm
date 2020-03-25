@@ -11,5 +11,5 @@ You can find the initial instructions and the three questions <a href="http://ma
 
 You can find solutions using each participant's data <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/exercise1_solutions.html"><b>here</b></a>.
 
-Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/exercise1_solutions.html"><b>here</b></a>.
+Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
