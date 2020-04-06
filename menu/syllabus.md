@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 ---
 
-# LATEST UPDATE APRIL 6, 2020
+# CORONA UPDATE: THIS COURSE IS BEING UPDATED, LATEST VERSION APRIL 6, 2020
 
 ## Format
 The first two sessions of this lecture took place in-person but we have switched to an online format that will involve recorded/interactive sessions and homework assignments. The agenda below is tentative and may be subject to changes.
