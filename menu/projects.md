@@ -21,7 +21,7 @@ Please check whether your name appears on the list of students that completed th
 *Expert(s) vs. wisdom of the crowd*
 
 ## Exercise 3 (deadline May 4)
-*Experimental & Quasi-experimental designs"
+*Experimental & Quasi-experimental designs*
 
 ## Exercise 4 (deadline May 11)
 *Literature Search*
