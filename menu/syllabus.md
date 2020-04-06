@@ -32,7 +32,7 @@ a) homework assignments (50% of the final grade)
 b) performance on a multiple-choice exam (50% of the final grade).
 
 ### Homework assignments
-Homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, conducting systematic literature search, and communicating scientific evidence in writing or orally. 
+Homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, conducting systematic literature search, and communicating scientific evidence in writing or orally. See <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>Exercises </b></a> page for more information. 
 
 ### Exam
 The exam will be in English and consist of multiple-choice questions.
