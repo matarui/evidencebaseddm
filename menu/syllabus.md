@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 ---
 
-## UPDATE: THIS COURSE IS UNDER CONSTRUCTION, FINAL VERSION FOR FS2020 AVAILABLE AFTER EASTER
+## UPDATE: THIS COURSE IS UNDER CONSTRUCTION, FINAL VERSION FOR FS2020 WILL BE AVAILABLE AFTER EASTER
 
 ## Format
 The first two sessions of this lecture took place in-person but we have switched to an online format that will involve recorded/interactive sessions and homework assignments. The agenda below is tentative and may be subject to changes.
