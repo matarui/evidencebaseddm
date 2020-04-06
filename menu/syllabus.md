@@ -26,13 +26,13 @@ Materials (slides, readings, exercises) are made available through links below a
 
 ## Grading
 Students grades will be a combination of 
+
 a) homework assignments (50% of the final grade) 
+
 b) performance on a multiple-choice exam (50% of the final grade).
 
 ### Homework assignments
 Homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, conducting systematic literature search, and communicating scientific evidence in writing or orally. 
 
 ### Exam
-The exam will consist of multiple-choice questions.
-
-The exam will be in English. Students are allowed to use a dictionary during the exam. 
+The exam will be in English and consist of multiple-choice questions.
