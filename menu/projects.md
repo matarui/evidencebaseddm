@@ -25,4 +25,9 @@ TBA
 TBA
 
 ### Exercise 5 (deadline May 26)
-TBA
+Can psychological science contribute to fighting the corona crisis? 
+
+Many psychologists think this is the case. My friends and I tried to make this point <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> but you can find many more (and probably better) examples online. 
+
+Please provide your answer in the form of a blog post (max 300 words) or video (max 3 minutes). Your contribution should include a reference to a meta-analysis or other empirical work (e.g., randomized control trial). 
+
