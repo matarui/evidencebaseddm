@@ -7,6 +7,8 @@ Completing each of the exercises below will count 10% towards the final grade (f
 
 ### Exercise 1 (deadline expired March 23)
 
+*Clinical vs. Actuarial*
+
 I asked you to complete the online experiment <a href="https://evidencebaseddm.formr.org "><b>"Job or Not?"</b></a> and answer three questions by **March 23**. 
 
 You can find the initial instructions and the three questions <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/exercise1.html"><b>here</b></a>.
@@ -22,11 +24,13 @@ TBA
 TBA
 
 ### Exercise 4 (deadline May 12)
+*Literature Search*
+
 Conduct a literature search on <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=main&D=psyh"><b>PsycInfo</b></a>
 
 
 ### Exercise 5 (deadline May 26)
-Can psychological science contribute to fighting the corona crisis? 
+*Can psychological science contribute to fighting the corona crisis?* 
 
 Many psychologists think this is the case. My friends and I tried to make this point <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> but you can find many more (and better) examples online these days. I would like to challenge you to answer this question yourself. 
 
