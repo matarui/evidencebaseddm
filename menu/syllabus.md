@@ -26,11 +26,11 @@ Materials (slides, readings, exercises) are made available through links below a
 
 ## Grading
 Students grades will be a combination of 
-a) three homework assignments (30% of the final grade) 
-b) performance on a multiple-choice exam (70% of the final grade).
+a) homework assignments (50% of the final grade) 
+b) performance on a multiple-choice exam (50% of the final grade).
 
 ### Homework assignments
-Three homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, or conducting a literature search. 
+Homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, conducting systematic literature search, and communicating scientific evidence in writing or orally. 
 
 ### Exam
 The exam will consist of multiple-choice questions.
