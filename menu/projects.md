@@ -17,13 +17,13 @@ You can find solutions using each participant's data <a href="http://matarui.git
 
 Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
-## Exercise 2 (deadline April 28)
-TBA
+## Exercise 2 (deadline April 27)
+*Expert(s) vs. wisdom of the crowd*
 
-## Exercise 3 (deadline May 5)
-TBA
+## Exercise 3 (deadline May 4)
+*Experimental & Quasi-experimental designs"
 
-## Exercise 4 (deadline May 12)
+## Exercise 4 (deadline May 11)
 *Literature Search*
 
 Conduct a literature search on <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=main&D=psyh"><b>PsycInfo</b></a>. Pick any topic of interest to you. Pick only peer-reviewed empirical papers published in the last 2 years (i.e., 2018, 2019, 2020). 
