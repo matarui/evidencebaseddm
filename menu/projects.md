@@ -22,12 +22,15 @@ TBA
 TBA
 
 ### Exercise 4 (deadline May 12)
-TBA
+Conduct a literature search on <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=main&D=psyh"><b>PsycInfo</b></a>
+
 
 ### Exercise 5 (deadline May 26)
 Can psychological science contribute to fighting the corona crisis? 
 
-Many psychologists think this is the case. My friends and I tried to make this point <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> but you can find many more (and probably better) examples online. 
+Many psychologists think this is the case. My friends and I tried to make this point <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> but you can find many more (and better) examples online these days. I would like to challenge you to answer this question yourself. 
 
-Please provide your answer in the form of a blog post (max 300 words) or video (max 3 minutes). Your contribution should include a reference to a meta-analysis or other empirical work (e.g., randomized control trial). 
+Please provide your own answer to the question "Can psychological science contribute to fighting the corona crisis?" in the form of a blog post (max 300 words) or video (max 3 minutes) aimed at a general audience. Focus on a specific area or concrete example of how psychological science can help either understand or intervene in the current situation. The goal is not to express your own personal opinion but, rather, use current scientific evidence to discuss a specific aspect of human behavior.  
+
+Your contribution should include a reference to a meta-analysis or other empirical work (e.g., randomized control trial) that can substantiate your claims. You can complete this assignment individually or as a group (maximum 3 people).
 
