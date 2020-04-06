@@ -13,10 +13,14 @@ You can find solutions using each participant's data <a href="http://matarui.git
 
 Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
-### Exercise 2 (deadline April 21)
+### Exercise 2 (deadline April 28)
+TBA
 
-### Exercise 3 (deadline April 21)
+### Exercise 3 (deadline May 5)
+TBA
 
-### Exercise 4 (deadline April 21)
+### Exercise 4 (deadline May 12)
+TBA
 
-### Exercise 5 (deadline April 21)
+### Exercise 5 (deadline May 26)
+TBA
