@@ -3,9 +3,11 @@ layout: page
 title: Exercises
 ---
 
+Completing each of the exercises below will count 10% towards the final grade (for a total of 50%).
+
 ### Exercise 1 (deadline expired March 23)
 
-I asked you to complete the online experiment <a href="https://evidencebaseddm.formr.org "><b>"Job or Not?"</b></a> and answer three questions by **March 23**. Completing this assignment  counts towards 10% of the final grade.
+I asked you to complete the online experiment <a href="https://evidencebaseddm.formr.org "><b>"Job or Not?"</b></a> and answer three questions by **March 23**. 
 
 You can find the initial instructions and the three questions <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/exercise1.html"><b>here</b></a>.
 
