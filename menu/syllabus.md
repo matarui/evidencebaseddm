@@ -17,7 +17,7 @@ Materials (slides, readings, exercises) are made available through links below a
 | ----- |:------------| :-----| :-----| :-----| :-----|
 | 1 | Feb 18 | Rationale for evidence-based practices | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session1.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Munafò_2017_Nature_Human_Behaviour.pdf"><b>pdf</b></a>| | 
 | 2 | Feb 25 | Clinical vs. actuarial methods | <a href="http://matarui.github.io/evidencebaseddm/assets/presentations/EbDM_session2.pdf"><b>slides</b></a> | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Dawes_1989_Science.pdf"><b>pdf</b></a>| |
-| 3 | tbd | Clinical vs. actuarial methods | | |<a href="http://matarui.github.io/evidencebaseddm/assets/exercises/exercise1.html"><b>exercise</b></a> |
+| 3 | tbd | Clinical vs. actuarial methods | | |<a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>exercise</b></a> |
 | 4 | tbd |  Deliberative and statistical aggregation in groups | |<a href="http://matarui.github.io/evidencebaseddm/assets/literature/Mannes_2014_JPSP.pdf"><b>pdf | |
 | 5 | tbd | Experimental design and causal inference | | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Varian_2016_PNAS.pdf"><b>pdf| |
 | 6 | tbd | Systematic reviews and meta-analyses | | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Gurevitch_2018_Nature.pdf"><b>pdf| |
