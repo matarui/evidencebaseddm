@@ -25,12 +25,14 @@ Materials (slides, readings, exercises) are made available through links below a
 | 8 | May 26 | Exam (multiple-choice) | | | |
 
 ## Grading
-Students grades will be a combination of a) three homework assignments (30% of the final grade) and b) performance on a multiple-choice exam (70% of the final grade).
+Students grades will be a combination of 
+a) three homework assignments (30% of the final grade) 
+b) performance on a multiple-choice exam (70% of the final grade).
 
 ### Homework assignments
 Three homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, or conducting a literature search. 
 
 ### Exam
-The exam will consist of circa 25 K-prim multiple-choice questions: Each question or incomplete statement is followed by four possible responses or statements. For each response or statement, a decision must be made as to whether it is right or wrong. Regardless of whether the question is grammatically formulated in the singular or the plural, one, two, three, four or even none of the answers may be correct. For each question, four correct answers equal 1 point, three correct equal .5 point, and less than 3 correct answers equal 0 points. 
+The exam will consist of multiple-choice questions.
 
 The exam will be in English. Students are allowed to use a dictionary during the exam. 
