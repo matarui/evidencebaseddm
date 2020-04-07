@@ -30,7 +30,7 @@ Conduct a literature search on <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&
 
 If you are not familiar with PsycInfo, watch the following videos on <a href="https://tube.switch.ch/videos/ec852f97"><b>searching</b></a> and <a href="https://tube.switch.ch/videos/9c68f8ce"><b>exporting</b></a> results. 
 
-Send me a description of your topic of interest, the keyword(s) you used, a screenshot of your PsycInfo search screen ("Suchverlauf"), and your export file as an Excel file by May 12 (rui.mata at unibas.ch). 
+Send me a description of your topic of interest, the keyword(s) you used, a screenshot of your PsycInfo search screen ("Suchverlauf"), and your export file as an Excel file by May 11 (rui.mata at unibas.ch). 
 
 ## Exercise 5 (deadline May 26)
 
