@@ -27,12 +27,12 @@ Materials (slides, readings, exercises) are made available through links below a
 ## Grading
 Students grades will be a combination of 
 
-a) homework assignments (50% of the final grade) 
+a) homework assignments (30% of the final grade) 
 
-b) performance on a open-book multiple-choice exam (50% of the final grade).
+b) performance on a open-book, multiple-choice exam (70% of the final grade).
 
 ### Homework assignments
-Homework assignments include conducting simple statistical analyses (e.g., regression), answering a quizz, conducting a systematic literature search, and communicating scientific evidence in writing or orally. See <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>Exercises </b></a> page for more information. 
+Homework assignments include conducting simple statistical analyses (e.g., regression), conducting a systematic literature search, and communicating scientific evidence in writing or orally. See <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>Exercises </b></a> page for more information. 
 
 ### Exam
 The exam will be an open book exam, in English, and consist of multiple-choice questions.
