@@ -20,7 +20,7 @@ Please check whether your name appears on the list of students that completed th
 ## Exercise 2 (deadline May 11)
 *Literature Search*
 
-My friends and I recently tried to make the point that psychological science has something to offer during the corona crisis <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> and you can find many more (and better) examples online these days. I would like to challenge you to answer this question yourself. 
+Some of my psychologist friends and I recently tried to make the point that psychological science has something to offer during the corona crisis <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> and you can find many more (and better) examples online these days. I would like to challenge you to answer this question yourself. 
 
 Conduct a literature search on <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=main&D=psyh"><b>PsycInfo</b></a>. Pick any topic of interest to you that you feel would represent a good example of how psychological science could help during (or after) the corona epidemic. Identify peer-reviewed empirical papers or meta-analyses. 
 
