@@ -6,7 +6,7 @@ title: Syllabus
 ## UPDATE: THIS COURSE IS UNDER CONSTRUCTION, FINAL VERSION FOR FS2020 WILL BE AVAILABLE AFTER EASTER
 
 ## Format
-The first two sessions of this lecture took place in-person but we have switched to an online format that will involve recorded/interactive sessions and homework assignments. The agenda below is tentative and may be subject to changes.
+The first two sessions of this lecture took place in-person but we have switched to an online format. The agenda below is tentative and may be subject to changes.
 
 ## Course Materials
 Materials (slides, readings, exercises) are made available through links below and on <a href="https://adam.unibas.ch/goto_adam_crs_833529.html"><b>ADAM</b></a>. ADAM also has a FAQ section that you can use to post any questions related to the lecture. 
@@ -22,17 +22,17 @@ Materials (slides, readings, exercises) are made available through links below a
 | 5 | May 5 | Experimental design and causal inference | | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Varian_2016_PNAS.pdf"><b>pdf|<a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>ex 3</b></a> |
 | 6 | May 12 | Systematic reviews and meta-analyses | | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Gurevitch_2018_Nature.pdf"><b>pdf| <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>ex 4</b></a> |
 | 7 | May 19 | Evidence-based interventions | |<a href="http://matarui.github.io/evidencebaseddm/assets/literature/Michie_2011_ImplementScience.pdf"><b>pdf |<a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>ex 5</b></a>  |
-| 8 | May 26 | Exam (multiple-choice) | | | |
+| 8 | May 26 | Exam (multiple-choice, open book exam) | | | |
 
 ## Grading
 Students grades will be a combination of 
 
 a) homework assignments (50% of the final grade) 
 
-b) performance on a multiple-choice exam (50% of the final grade).
+b) performance on a open-book multiple-choice exam (50% of the final grade).
 
 ### Homework assignments
-Homework assignments will be given in class and will include conducting simple statistical analyses (e.g., regression), responding to a quiz, conducting systematic literature search, and communicating scientific evidence in writing or orally. See <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>Exercises </b></a> page for more information. 
+Homework assignments include conducting simple statistical analyses (e.g., regression), answering a quizz, conducting a systematic literature search, and communicating scientific evidence in writing or orally. See <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>Exercises </b></a> page for more information. 
 
 ### Exam
-The exam will be in English and consist of multiple-choice questions.
+The exam will be an open book exam, in English, and consist of multiple-choice questions.
