@@ -34,6 +34,6 @@ Send me a description of your topic of interest, the keyword(s) you used, a scre
 
 Please provide your own answer to the question "Can psychological science contribute to fighting the corona crisis?" in the form of a blog post (max 300 words) or video (max 3 minutes) aimed at a general audience. Focus on a specific area or concrete example of how psychological science can help either understand or intervene in the current situation. You could focus on the result(s) you obtained from Exercise 2 (see above) or focus on a different topic. The goal is not to express your own personal opinion but, rather, use current scientific evidence to discuss a specific aspect of human psychology and behavior that is relevant to the current crisis.  
 
-Your contribution should include a reference to a meta-analysis or other empirical work (e.g., randomized control trial) that can substantiate your claims. You can complete this assignment individually or as a group (maximum 3 people). 
+Your contribution should include a reference to a meta-analysis or other empirical work (e.g., randomized control trial) that can substantiate your claims. You can complete this assignment individually or as a group (maximum 3 people). Your piece can be in either English, German, or Portuguese. 
 
 Email your text or a link to your video to rui.mata at unibas.ch by May 26.
