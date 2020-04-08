@@ -17,7 +17,7 @@ You can find solutions using each participant's data <a href="http://matarui.git
 
 Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
-## Exercise 2 (deadline May 11)
+## Exercise 2 (deadline May 26)
 *Literature Search: Can psychological science contribute to fighting the corona crisis?*
 
 Some of my psychologist friends and I recently tried to make the point that psychological science has something to offer during the corona crisis <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> and you can find many more (and better) examples online these days. I would like to challenge you to answer this question yourself. 
@@ -26,7 +26,7 @@ Conduct a literature search on <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&
 
 If you are not familiar with PsycInfo, watch the following videos on <a href="https://tube.switch.ch/videos/ec852f97"><b>searching</b></a> and <a href="https://tube.switch.ch/videos/9c68f8ce"><b>exporting</b></a> results. 
 
-Send me a description of your topic of interest, the keyword(s) you used, a screenshot of your PsycInfo search screen ("Suchverlauf"), and your export file as an Excel file to rui.mata at unibas.ch by May 11. 
+Send me a description of your topic of interest, the keyword(s) you used, a screenshot of your PsycInfo search screen ("Suchverlauf"), and your export file as an Excel file to rui.mata at unibas.ch by May 26. 
 
 ## Exercise 3 (deadline May 26)
 
