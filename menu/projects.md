@@ -18,7 +18,7 @@ You can find solutions using each participant's data <a href="http://matarui.git
 Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
 ## Exercise 2 (deadline May 11)
-*Literature Search*
+*Literature Search: Can Psychological Science Help in Times of Corona?*
 
 Some of my psychologist friends and I recently tried to make the point that psychological science has something to offer during the corona crisis <a href="https://tube.switch.ch/videos/63e601c8"><b>here</b></a> and you can find many more (and better) examples online these days. I would like to challenge you to answer this question yourself. 
 
