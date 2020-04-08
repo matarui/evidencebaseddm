@@ -24,7 +24,7 @@ body {
   line-height: 1.5rem;#
 }
 
-@media (max-width: 40em) {
+@media (max-width: 30em) {
   body {
     font-size: 14px;
     line-height: 1.5rem;
@@ -87,7 +87,7 @@ hr {
 
 /*48em*/
 
-@media (max-width: 768px) {
+@media (max-width: 968px) {
   .container {
     width: 90vw;
   }
