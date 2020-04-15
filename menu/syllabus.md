@@ -7,7 +7,7 @@ title: Syllabus
 The first two sessions of this lecture took place in-person but we have switched to an online format.
 
 ## Course Materials
-Materials (slides, readings, exercises) are made available through links below and on <a href="https://adam.unibas.ch/goto_adam_crs_833529.html"><b>ADAM</b></a>. ADAM also has a FAQ section that you can use to post any questions related to the lecture. 
+The video recordings of the lecture will be made available on SwitchTube starting April 21. Materials (slides, readings, exercises) are made available through links below and on <a href="https://adam.unibas.ch/goto_adam_crs_833529.html"><b>ADAM</b></a>. ADAM also has a FAQ section that can be used to post questions related to the lecture. 
 
 ## Agenda
 
