@@ -20,7 +20,7 @@ The video recordings of the lecture will be made available on SwitchTube startin
 | 5 | Online | Experimental design and causal inference | | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Varian_2016_PNAS.pdf"><b>pdf| |
 | 6 | Online | Systematic reviews and meta-analyses | | <a href="http://matarui.github.io/evidencebaseddm/assets/literature/Gurevitch_2018_Nature.pdf"><b>pdf| <a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>ex 2</b></a> |
 | 7 | Online | Evidence-based interventions | |<a href="http://matarui.github.io/evidencebaseddm/assets/literature/Michie_2011_ImplementScience.pdf"><b>pdf |<a href="https://matarui.github.io/evidencebaseddm/menu/projects.html"><b>ex 3</b></a>  |
-| 8 | Exam | Take-home exam (available May 20 and due May 26) | | | |
+| 8 | Exam | Take-home exam (available May 20/due May 26) | | | |
 
 ## Grading
 Students grades will be a combination of 
