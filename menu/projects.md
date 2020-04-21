@@ -17,6 +17,7 @@ You can find solutions using each participant's data <a href="http://matarui.git
 
 Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
+
 ## Exercise 2 (deadline May 26)
 *Literature Search: Can psychological science contribute to fighting the corona crisis?*
 
