@@ -17,6 +17,7 @@ You can find solutions using each participant's data <a href="http://matarui.git
 
 Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/Exercise1_studentlist.pdf"><b>here</b></a>.
 
+Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
 
 ## Exercise 2 (deadline May 26)
 *Literature Search: Can psychological science contribute to fighting the corona crisis?*
@@ -29,6 +30,8 @@ If you are not familiar with PsycInfo, watch the following videos on <a href="ht
 
 Send me a description of your topic of interest, the keyword(s) you used, a screenshot of your PsycInfo search screen ("Suchverlauf"), and your export file as an Excel file to rui.mata at unibas.ch by May 26. 
 
+Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
+
 ## Exercise 3 (deadline May 26)
 
 *Communicating the importance of evidence-based decision making*
@@ -38,3 +41,5 @@ Please provide your own answer to the question "Can psychological science contri
 Your contribution should include a reference to a meta-analysis or other empirical work (e.g., randomized control trial) that can substantiate your claims. You can complete this assignment individually or as a group (maximum 3 people). Your piece can be in either English, German, or Portuguese. 
 
 Email your text or a link to your video to rui.mata at unibas.ch by May 26.
+
+Please check whether your name appears on the list of students that completed the exercise <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
