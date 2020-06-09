@@ -3,9 +3,13 @@ layout: page
 title: Syllabus
 ---
 
-# NEW: CHECK WHETHER ALL THE DATA IS IN!
+# CHECK WHETHER ALL THE DATA IS IN!
 
-Please check whether your name appears on the list of students that completed the exercises and or exam <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
+<div class="text-red">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
+Please check whether your name appears on the list of students that completed the exercises and/or exam <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
 
 
 ## Format
