@@ -3,6 +3,11 @@ layout: page
 title: Syllabus
 ---
 
+# NEW: CHECK WHETHER ALL THE DATA IS IN!
+
+Please check whether your name appears on the list of students that completed the exercises and or exam <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
+
+
 ## Format
 The first two sessions of this lecture took place in-person but we have switched to an online format.
 
