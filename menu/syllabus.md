@@ -5,10 +5,6 @@ title: Syllabus
 
 # CHECK WHETHER ALL THE DATA IS IN!
 
-<div class="text-red mb-2">
-  .text-red on white
-</div>
-
 Please check whether your name appears on the list of students that completed the exercises and/or exam <a href="http://matarui.github.io/evidencebaseddm/assets/exercises/studentlist_allexercises.pdf"><b>here</b></a>.
 
 
